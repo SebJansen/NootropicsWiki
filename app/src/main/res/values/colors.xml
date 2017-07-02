@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Default -->
+    <color name="colorPrimaryDark">#B71C1C</color>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorAccent">#D32F2F</color>
+
+    <!-- Red -->
+    <color name="color.red.dark">#F44336</color>
+    <color name="color.red.primary">#F44336</color>
+    <color name="color.red.accent">#F44336</color>
+
+    <!-- Green -->
+    <color name="color.green.dark">#1B5E20</color>
+    <color name="color.green.primary">#4CAF50</color>
+    <color name="color.green.accent">#2E7D32</color>
+
+    <!-- Blue -->
+    <color name="color.blue.dark">#F44336</color>
+    <color name="color.blue.primary">#F44336</color>
+    <color name="color.blue.accent">#F44336</color>
+
+
+
+</resources>

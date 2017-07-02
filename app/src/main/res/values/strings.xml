@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Why bother using labels as if they were namespaces? -->
+    <!-- {} See https://github.com/futurice/android-best-practices#resources -->
+
+    <!-- General -->
+    <string name="label.app.action_bar.title">Nootropics Wiki</string>
+    <string name="label.app.action_bar.settings">Appearance</string>
+
+    <!-- New article page -->
+    <string name="label.content.new_article.title">New article</string>
+    <string name="label.content.new_article.thumbnail">Thumbnail</string>
+    <string name="label.content.new_article.excerpt">Excerpt</string>
+    <string name="label.content.new_article.name">Name</string>
+    <string name="label.content.new_article.save_button">Save</string>
+    <string name="label.content.new_article.edit_article">Edit article</string>
+
+    <!-- Edit article page -->
+    <string name="label.content.edit_article.update_button">Update</string>
+    <string name="title_activity_settings">Settings</string>
+
+</resources>
